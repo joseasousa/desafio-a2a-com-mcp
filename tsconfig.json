@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "strict": true,
+    "outDir": "dist",
+    "skipLibCheck": true
+  },
+  "include": [
+    "servidor-mcp/**/*.ts",
+    "agente/**/*.ts"
+  ]
+}
