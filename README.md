@@ -52,10 +52,10 @@ Tasks ficam em um Map em memória no agente, com estado público separado do con
 
 ## Saída do validador
 
-Última execução com processos recém-iniciados, código de saída 0:
+Instalação com npm ci, compilação e testes reproduzidos em checkout limpo. Última execução com processos recém-iniciados, código de saída 0:
 
 ```text
-trace-id desta execucao: 206601c321dc27299bbafe7371bb828a
+trace-id desta execucao: 41cecbe7f08ca399da6a438bb2030c0f
 procure esse valor no stderr do servidor MCP para conferir a propagacao do traceparent.
 
 PASS 01 tools/list traz as tres tools
